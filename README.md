@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshGrant02
 - 👀 I’m interested in Rock Climbing :)
 - 🌱 I’m currently learning Data Structures in Java
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on nothing rn...
 - 📫 How to reach me:
 -       Personal Email: joshuajamesgrant02@gmail.com
 -       School Email: grantj@msoe.edu
